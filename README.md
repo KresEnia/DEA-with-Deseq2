@@ -6,9 +6,11 @@ general_workflow/
 Contains code and output from practice sessions based on the Udemy course
 "Bioinformatic: Learn Bulk RNA-Seq Data Analysis From Scratch".
 Covers basic DESeq2 workflow and visualizations.
+
 case1/
 Focuses on data preprocessing, especially summing of technical replicates.
 Based on raw read count and metadata files from GSE283950 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE283950).
+
 case2/
 Demonstrates practice with contrasts and generation of visualizations (e.g., PCA, volcano plots).
 Based on small RNA-seq data from GSE175657 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175657).
