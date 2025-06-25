@@ -2,6 +2,7 @@
 This repository contains a collection of bulk RNA-seq differential expression analysis (DEA) workflows using DESeq2 in R, including practical examples and real datasets.
 
 📁 Folder Overview
+
 general_workflow/
 Contains code and output from practice sessions based on the Udemy course
 "Bioinformatic: Learn Bulk RNA-Seq Data Analysis From Scratch".
