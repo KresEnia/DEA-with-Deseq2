@@ -15,3 +15,6 @@ Based on raw read count and metadata files from GSE283950 (https://www.ncbi.nlm.
 case2/
 Demonstrates practice with contrasts and generation of visualizations (e.g., PCA, volcano plots).
 Based on small RNA-seq data from GSE175657 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175657).
+
+case3/
+Concentrated on GO enrichment and KEGG analysis as well as semantic similarity of GO terms. The data is from GSE51403 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51403&utm_source=chatgpt.com)
