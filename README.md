@@ -17,4 +17,4 @@ Demonstrates practice with contrasts and generation of visualizations (e.g., PCA
 Based on small RNA-seq data from GSE175657 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175657).
 
 case3/
-Concentrated on GO enrichment and KEGG analysis as well as semantic similarity of GO terms. The data is from GSE51403 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51403&utm_source=chatgpt.com)
+Concentrated on GO enrichment and KEGG analysis as well as semantic similarity of GO terms. The data is from GSE51403 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51403&utm_source=chatgpt.com).
